@@ -1,4 +1,4 @@
-# swiss-rounds
+# swiss-rounds [![CircleCI](https://dl.circleci.com/status-badge/img/gh/GAumala/swiss-rounds/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/GAumala/swiss-rounds/tree/main)
 
 Swiss rounds algorithm for TCG events.
 
