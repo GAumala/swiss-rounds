@@ -1,0 +1,24 @@
+{
+  "name": "swiss-rounds-tcg",
+  "version": "0.1.0",
+  "description": "Swiss rounds algorithm for TCG tournaments.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint index.js __tests__/*.js tournament/*.js util/*.js",
+    "format": "prettier index.js __tests__/*.js tournament/*.js util/*.js --write"
+  },
+  "author": "Gabriel Aumala",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5"
+  }
+}
